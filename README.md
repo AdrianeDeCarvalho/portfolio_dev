@@ -26,6 +26,24 @@ Aqui você encontrará uma seleção dos meus projetos mais relevantes, demonstr
 * **Destaques:** Evolução incremental do projeto, persistência de dados com JSON, aprimoramento da interface de usuário com a biblioteca `rich`, e implementação de lógica de busca e filtragem usando `list comprehension`.
 
 
+## 🏢 Sistema de Gerenciamento de Equipe (Back-end)
+
+**Descrição:** Aplicação de linha de comando (CLI) focada em gestão de colaboradores. O projeto demonstra a transição de armazenamento em memória para persistência real em banco de dados relacional.
+
+**O que foi desenvolvido:**
+* **Persistência com SQLAlchemy:** Implementação de um ORM para gerenciar o banco de dados SQLite, permitindo que os dados persistam após o fechamento do sistema.
+* **Arquitetura Modular:** Separação clara entre o modelo de dados (`models`), a lógica de negócio (`core`) e a interface de usuário (`main`).
+* **Interface Enriquecida:** Uso da biblioteca `Rich` para criar tabelas organizadas, painéis e feedbacks visuais coloridos no terminal.
+* **Funcionalidades CRUD:** Cadastro, listagem estilizada e busca de funcionários por nome.
+
+**Principais aprendizados:**
+* Manipulação de banco de dados SQL através de Python.
+* Gerenciamento de ambientes virtuais e dependências (`requirements.txt`).
+* Tratamento de erros de entrada e de conexão com banco de dados.
+
+[🔗 Ver Repositório do Projeto](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-equipe)
+
+
 Estou em busca de novos desafios!
 
 ---
