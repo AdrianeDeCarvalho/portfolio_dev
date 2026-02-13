@@ -43,6 +43,24 @@ Aqui você encontrará uma seleção dos meus projetos mais relevantes, demonstr
 
 [🔗 Ver Repositório do Projeto](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-equipe)
 
+### 🗓️ Gestão de Tarefas de Equipe
+Aplicação desenvolvida para otimizar a organização de atividades internas, permitindo o controle de prioridades e o acompanhamento do status de conclusão de cada tarefa em tempo real.
+
+**Tecnologias Utilizadas:**
+
+* **Python/Django: Estruturação da lógica de negócio e gerenciamento de rotas.
+* **SQLite: Persistência de dados leve e eficiente.
+* **Django Templates: Renderização dinâmica de dados com lógica condicional.
+* **HTML/CSS: Interface estruturada e estilização baseada no status das tarefas.
+
+**O que aprendi/apliquei:**
+
+* **Arquitetura MVT**: Organização do projeto separando Modelos, Views e Templates para um código limpo e escalável.
+* **Django ORM:** Manipulação de banco de dados diretamente via Python, realizando consultas complexas de forma simplificada.
+* **Customização do Admin:** Configuração de uma interface administrativa robusta para gestão rápida de dados.
+* **Lógica de Negócio:** Implementação de campos com escolhas limitadas (choices) e métodos de exibição personalizados (get_display).
+
+* **Repositório:** [Acessar Projeto](https://github.com/AdrianeDeCarvalho/gestao-tarefas-equipe)
 
 Estou em busca de novos desafios!
 
@@ -50,20 +68,33 @@ Estou em busca de novos desafios!
 
 ## 🛠️ Minhas Habilidades
 
-* **Linguagens de Programação:** Python, Noções de Java
-* **Conceitos & Paradigmas:** Lógica de Programação, Orientação a Objetos (POO), Estrutura de Dados, Tratamento de Exceções.
-* **Ferramentas & Plataformas:** Git, GitHub, Flask
+* **Linguagens & Frameworks:** Python (Django, Flask), Noções de Java.
+* **Back-end & Arquitetura:** Padrão MVT (Model-View-Template), Desenvolvimento de APIs, Autenticação e Autorização.
+* **Banco de Dados:** SQLite, Modelagem de Dados, Django ORM (Queries e Relacionamentos).
+* **Conceitos & Paradigmas:** Orientação a Objetos (POO), Lógica de Programação, Estrutura de Dados, Tratamento de Exceções.
+* **Ferramentas & DevOps:** Git, GitHub, Ambientes Virtuais (venv), Gerenciamento de Dependências (pip).
 
 ---
 
-##  🌱  O que estou aprendendo
-Atualmente estou me aprofundando em Desenvolvimento Web com Flask, Interações de APIs, Validação de Dados Mais Robusta (biblioteca Pydantic), Autenticação e Autorização (JWT - Json Web Tokens).
+## 🗺️ Roadmap de Evolução Técnica (Próximos 2 Meses)
+
+"Para elevar o nível das minhas soluções, tracei um plano de estudos focado em transformar aplicações funcionais em sistemas robustos, seguros e escaláveis."
+
+| Fase | Foco Tecnológico | Objetivo |
+| :--- | :--- | :--- |
+| **01. Consolidação** | Relacionamentos (ForeignKey) | Implementar relações complexas entre modelos e otimização de queries com o ORM. |
+| **02. Arquitetura API** | Django REST Framework (DRF) | Transição para o desenvolvimento de APIs RESTful, separando Back-end e Front-end. |
+| **03. Segurança** | Autenticação JWT | Implementar camadas de segurança modernas com JSON Web Tokens para controle de acesso. |
+| **04. Robustez** | Pydantic & Testes | Garantir integridade de dados com validações avançadas e implementação de Testes Unitários. |
+
+---
 
 ---
 
 ## 📫 Como me Conectar
-* **LinkedIn:**
-* **Email:** `adrianedecarvalho578@gmail.com`
+* **LinkedIn:** [LinkedIn/adriane-de-carvalho](https://www.linkedin.com/in/adriane-de-carvalho12)
+* **Email:** [adrianedecarvalho578@gmail.com](mailto:adrianedecarvalho578@gmail.com)
+* **WhatsApp:** [Fale Comigo no WhatsApp](https://wa.me/5551995810356?text=Olá%20Adriane,%20vi%20seu%20portfólio%20no%20GitHub!)
 
 ---
 
