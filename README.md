@@ -8,59 +8,18 @@ Sou uma desenvolvedora apaixonada por **Python** e focada em desenvolvimento bac
 
 ---
 
-## 🚀 Meus Projetos em Destaque
-Aqui você encontrará uma seleção dos meus projetos mais relevantes, demonstrando minhas habilidades técnicas e minha abordagem para resolver desafios.
+## 🚀 Meus Projetos
 
+Aqui estão alguns dos projetos que desenvolvi, focados em resolver problemas reais e aplicar conceitos modernos de arquitetura de software.
 
-###  💻 Sistema de Gerenciamento de Usuários (Evolução em 3 Etapas)
-* **Descrição:** Um sistema interativo para cadastro, login, busca e exclusão de usuário, que demonstra a evolução do código em três versões. Ele ilustra minha capacidade de refatorar e adicionar funcionalidades de forma incremental, com foco em boas práticas e tratamento de erros.
-* **Tecnologias:** Python
-* **Link do Repositório:** https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios
-* **Destaques:** Modularidade do código, validação de entradas, tratamento de exceções e progressão lógica do projeto.
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| **Gestão de Tarefas (Django)** | Sistema Web com controle de prioridades, status dinâmicos e persistência em banco de dados. | Python, Django, SQLite, CSS | [Visualizar](https://github.com/AdrianeDeCarvalho/gestao-tarefas-equipe) |
+| **Gerenciamento de RH** | Aplicação Back-end para gestão de equipes com interface rica via terminal. | Python, Rich, SQLite | [Visualizar](https://github.com/AdrianeDeCarvalho/Sistema-de-Gerenciamento-de-Equipe-Back-end-) |
+| **Evolução de Usuários** | Projeto focado em demonstrar a progressão de lógica e boas práticas em Python. | Python, POO | [Visualizar](https://github.com/AdrianeDeCarvalho/Gerenciador-de-Tarefa) |
+| **Gerenciador de Tarefas v1** | De scripts básicos até a versão final com persistência e UI. | Python, Lógica Pura | [Visualizar](https://github.com/AdrianeDeCarvalho/Sistema-de-Gerenciamento-de-Usuario) |
 
-
-### 💻 Gerenciador de Tarefas (Evolução em 5 Etapas)
-* **Descrição:** Um gerenciador de tarefas por linha de comando que ilustra a evolução de um projeto, desde um script básico até uma aplicação robusta. Ele demonstra minha habilidade em adicionar funcionalidades de forma incremental, como persistência de dados, tratamento de erros, aprimoramento da interface de usuário e busca de informações.
-* **Tecnologias:** Python, Módulo `json`, Biblioteca `rich`
-* **Link do Repositório:** https://github.com/AdrianeDeCarvalho/gerenciador-de-tarefas
-* **Destaques:** Evolução incremental do projeto, persistência de dados com JSON, aprimoramento da interface de usuário com a biblioteca `rich`, e implementação de lógica de busca e filtragem usando `list comprehension`.
-
-
-## 🏢 Sistema de Gerenciamento de Equipe (Back-end)
-
-**Descrição:** Aplicação de linha de comando (CLI) focada em gestão de colaboradores. O projeto demonstra a transição de armazenamento em memória para persistência real em banco de dados relacional.
-
-**O que foi desenvolvido:**
-* **Persistência com SQLAlchemy:** Implementação de um ORM para gerenciar o banco de dados SQLite, permitindo que os dados persistam após o fechamento do sistema.
-* **Arquitetura Modular:** Separação clara entre o modelo de dados (`models`), a lógica de negócio (`core`) e a interface de usuário (`main`).
-* **Interface Enriquecida:** Uso da biblioteca `Rich` para criar tabelas organizadas, painéis e feedbacks visuais coloridos no terminal.
-* **Funcionalidades CRUD:** Cadastro, listagem estilizada e busca de funcionários por nome.
-
-**Principais aprendizados:**
-* Manipulação de banco de dados SQL através de Python.
-* Gerenciamento de ambientes virtuais e dependências (`requirements.txt`).
-* Tratamento de erros de entrada e de conexão com banco de dados.
-
-[🔗 Ver Repositório do Projeto](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-equipe)
-
-### 🗓️ Gestão de Tarefas de Equipe
-Aplicação desenvolvida para otimizar a organização de atividades internas, permitindo o controle de prioridades e o acompanhamento do status de conclusão de cada tarefa em tempo real.
-
-**Tecnologias Utilizadas:**
-
-* **Python/Django: Estruturação da lógica de negócio e gerenciamento de rotas.
-* **SQLite: Persistência de dados leve e eficiente.
-* **Django Templates: Renderização dinâmica de dados com lógica condicional.
-* **HTML/CSS: Interface estruturada e estilização baseada no status das tarefas.
-
-**O que aprendi/apliquei:**
-
-* **Arquitetura MVT**: Organização do projeto separando Modelos, Views e Templates para um código limpo e escalável.
-* **Django ORM:** Manipulação de banco de dados diretamente via Python, realizando consultas complexas de forma simplificada.
-* **Customização do Admin:** Configuração de uma interface administrativa robusta para gestão rápida de dados.
-* **Lógica de Negócio:** Implementação de campos com escolhas limitadas (choices) e métodos de exibição personalizados (get_display).
-
-* **Repositório:** [Acessar Projeto](https://github.com/AdrianeDeCarvalho/gestao-tarefas-equipe)
+---
 
 Estou em busca de novos desafios!
 
