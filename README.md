@@ -40,12 +40,12 @@ Estou em busca de novos desafios!
 
 "Para elevar o nível das minhas soluções, tracei um plano de estudos focado em transformar aplicações funcionais em sistemas robustos, seguros e escaláveis."
 
-| Fase | Foco Tecnológico | Objetivo |
+| Fase | Foco Tecnológico | Objetivo | Concluído |
 | :--- | :--- | :--- |
-| **01. Consolidação** | Relacionamentos (ForeignKey) | Implementar relações complexas entre modelos e otimização de queries com o ORM. |
-| **02. Arquitetura API** | Django REST Framework (DRF) | Transição para o desenvolvimento de APIs RESTful, separando Back-end e Front-end. |
-| **03. Segurança** | Autenticação JWT | Implementar camadas de segurança modernas com JSON Web Tokens para controle de acesso. |
-| **04. Robustez** | Pydantic & Testes | Garantir integridade de dados com validações avançadas e implementação de Testes Unitários. |
+| **01. Consolidação** | Relacionamentos (ForeignKey) | Implementar relações complexas entre modelos e otimização de queries com o ORM. | ✅ |
+| **02. Arquitetura API** | Django REST Framework (DRF) | Transição para o desenvolvimento de APIs RESTful, separando Back-end e Front-end. | ❌ |
+| **03. Segurança** | Autenticação JWT | Implementar camadas de segurança modernas com JSON Web Tokens para controle de acesso. | ❌ |
+| **04. Robustez** | Pydantic & Testes | Garantir integridade de dados com validações avançadas e implementação de Testes Unitários. | ✅
 
 ---
 
