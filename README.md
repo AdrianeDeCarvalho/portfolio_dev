@@ -14,6 +14,7 @@ Aqui estão alguns dos projetos que desenvolvi, focados em resolver problemas re
 
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
+| **Sistema Bancário Pro** | Aplicação financeira focada em integridade de dados, com transferências e extratos validados por testes unitários. | Python, Django, SQLite, Unit Testing | [Visualizar]()
 | **Gestão de Tarefas (Django)** | Sistema Web com controle de prioridades, status dinâmicos e persistência em banco de dados. | Python, Django, SQLite, CSS | [Visualizar](https://github.com/AdrianeDeCarvalho/gestao-tarefas-equipe) |
 | **Gerenciamento de RH** | Aplicação Back-end para gestão de equipes com interface rica via terminal. | Python, Rich, SQLite | [Visualizar](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-equipe) |
 | **Evolução de Usuários** | Projeto focado em demonstrar a progressão de lógica e boas práticas em Python. | Python, POO | [Visualizar](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios) |
