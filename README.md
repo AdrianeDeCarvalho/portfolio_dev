@@ -14,7 +14,7 @@ Aqui estão alguns dos projetos que desenvolvi, focados em resolver problemas re
 
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
-| **Automação de Tarefas** | Python, Django, SQLite | Sistema de gestão com robôs de automação (Management Commands) para geração de tarefas recorrentes, monitoramento de prazos e relatórios de produtividade. | [Visualizar](https://github.com/AdrianeDeCarvalho/sistema_automacao_tarefas) |
+| **Automação de Tarefas** | Sistema de gestão com robôs de automação (Management Commands) para geração de tarefas recorrentes, monitoramento de prazos e relatórios de produtividade. | Python, Django, SQLite | [Visualizar](https://github.com/AdrianeDeCarvalho/sistema_automacao_tarefas) |
 | **Sistema Bancário Pro** | Aplicação financeira focada em integridade de dados, com transferências e extratos validados por testes unitários. | Python, Django, SQLite, Unit Testing | [Visualizar](https://github.com/AdrianeDeCarvalho/sistema_bancario_django_test)
 | **Gestão de Tarefas (Django)** | Sistema Web com controle de prioridades, status dinâmicos e persistência em banco de dados. | Python, Django, SQLite, CSS | [Visualizar](https://github.com/AdrianeDeCarvalho/gestao-tarefas-equipe) |
 | **Gerenciamento de RH** | Aplicação Back-end para gestão de equipes com interface rica via terminal. | Python, Rich, SQLite | [Visualizar](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-equipe) |
